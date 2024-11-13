@@ -1,0 +1,44 @@
+Description
+
+To create code repositories on GitHub.
+
+To work with various git commands and sync the project on Github.
+
+ 
+
+Prerequisites:
+
+Git installation on the system
+
+Git commands
+
+Github Account
+
+ 
+
+Description:
+
+This assignment is designed to help understand working with the version control system, git. Further, creating code repositories on GitHub and using various git commands to push the code on Github.
+
+ 
+
+Problem Statement:
+
+Henna Solutions, a software company, is working on a web application project. The company aims to create certain HTML Web Pages for the Authentication flow in the project for their client. Developers and programmers in the project development team need to sync the code to Github to work on code collaboratively.
+
+ 
+
+Tasks:
+
+Perform the below activities as a solution:
+
+Create a Project Directory in your system
+Copy the  HTML Web Pages as provided
+Create a ReadMe.md file
+Initialize the git locally in your project folder
+Create a Code Repository in your Github account
+Add the remote origin to your local repository
+Add the source files to the local repository
+Check status on git
+Commit the code with a message
+Push the code to the remote repository on Github
